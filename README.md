@@ -1,32 +1,40 @@
-# 🧙‍♂️ Folder Sorcerer v1.0
+# Folder Sorcerer
 
-**Automate your messy Downloads folder like magic!**  
-No more chaos. No more endless dragging and dropping. Folder Sorcerer organizes your files by **type, year, and month**, and even renames screenshots to avoid conflicts. All in **one click**.
-
----
-
-## 🚀 Features
-
-- Automatically organizes files into:
-  - **Videos**, **Pictures**, **Documents**, **Others/Misc**
-- Sorts files by **creation year/month**
-- Renames screenshots to **timestamp format**
-- Works **directly on your desktop** (no virtual environment required)
-- Optional **fancy terminal output** with `rich`
+**Automagically organizes your messy folders – in one command.**
 
 ---
 
-## 🎬 Demo GIF
+## Why This Exists
+Tired of messy Downloads or Documents folders?  
+Folder Sorcerer organizes your files by type and date, keeping your workspace neat and productive.
 
-Here’s Folder Sorcerer in action:
+---
 
+## Demo
 ![Folder Sorcerer Demo](demo.gif)
 
 ---
 
-## 💻 Installation
+## Before & After
+| Before | After |
+|--------|-------|
+| ![before](before.png) | ![after](after.png) |
 
-1. Clone the repo:
+---
+
+## Installation
 ```bash
-git clone https://github.com/howard-dominic/folder-sorcerer.git
+git clone git@github.com:howard-dominic/folder-sorcerer.git
 cd folder-sorcerer
+chmod +x folder_sorcerer.py
+
+Usage
+# Preview changes without modifying files
+./folder_sorcerer.py ~/Downloads --dry-run
+
+# Organize your folder
+./folder_sorcerer.py ~/Downloads
+
+Support
+
+Star ⭐ the repo or share it with friends if you find it useful.
